@@ -40,7 +40,6 @@ ehthumbs.db
 *.key
 
 # Lock files (if switching package managers)
-package-lock.json
 pnpm-lock.yaml
 bun.lock
 bun.lockb
